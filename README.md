@@ -64,9 +64,9 @@ All UI/UX, product design, and interface decisions are rigorously governed by th
 
 I am always open to discussing new projects and strategic partnerships. Feel free to connect through the following channels:
 
-*   **Web Portfolio**: [ykplus-systems.vercel.app](https://yonipro-9b6xkwzpm-yonatan-s-projects-5ea18957.vercel.app/)
-*   **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-here) *(Please update with your actual LinkedIn URL)*
-*   **Email**: [Contact for Systems Audit](mailto:your.email@example.com) *(Please update with your preferred contact email)*
+*   **Web Portfolio**: [yksystems.ca](https://yksystems.ca)
+*   **LinkedIn**: _pending — canonical LinkedIn URL not yet recorded; see `YK-OPS-GRW-001` in Operations HQ_
+*   **Email**: _pending — canonical public contact address not yet recorded; see `YK-OPS-GRW-001` in Operations HQ_
 
 ---
 
