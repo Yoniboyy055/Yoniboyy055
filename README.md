@@ -1,73 +1,67 @@
-# YK Systems | Systems Builder & Product Strategist
+# Yonatan Kahsay | Founder, YK Systems
 
-> **Designing and building digital systems for real-world operators.**
+I build software products, operational systems, automation, AI-enabled workflows, and digital platforms for real-world operators.
 
-As a systems builder and product strategist, my focus is on outcome-driven design, feasibility, and long-term credibility. I prioritize **Clarity, Trust, Business Impact, and Execution Realism** in every project. My expertise lies in crafting robust digital systems for industries such as construction, infrastructure, logistics, and specialty trades, ensuring solutions are shippable, scalable, and command authority.
+**YK Systems** is a Canadian technology company focused on practical software and systems for industries where physical operations meet digital work.
 
----
+## Current focus
 
-### 🏗️ Core Pillars & Value Proposition
+### GrandProof
+**Construction field evidence software**
 
-My approach is built upon foundational principles that deliver tangible business outcomes:
+GrandProof is a YK Systems product for capturing, organizing, and reviewing field evidence in construction workflows.
 
-| Pillar | Focus | Intent |
-| :--- | :--- | :--- |
-| **Authority & Credibility** | Establishing a high-trust digital presence essential for institutional bidding and partnerships. | Designed to support larger bids, faster pre-qualification, and stronger market positioning. |
-| **Systems & Operations** | Implementing automation and streamlined workflows to eliminate operational chaos and manual errors. | Designed to reduce administrative overhead and provide real-time operational visibility. |
-| **Real-World Execution** | Developing solutions specifically designed for field operators, ensuring practical utility beyond the office environment. | Designed for reliable synchronization between field operations and central management. |
+Current public status: **release-candidate development**.
 
----
+- Field evidence capture
+- Role-based workflows
+- Offline-aware sync states
+- Tenant/security hardening
+- Web and mobile release work
 
-### 🚀 Featured Work & Impact
+Website: https://grandproof.ca
 
-My portfolio showcases projects that embody my commitment to strategic design and technical excellence:
+### YK Systems
+**Software · Automation · AI-Enabled Systems**
 
-#### [YK Systems Portfolio](https://github.com/Yoniboyy055/yonipro)
-**The Authority-First Showcase.** This premium, high-trust portfolio is engineered for real-world operators. It strategically communicates capabilities and builds credibility.
-*   **Key Technologies**: React, TypeScript, Tailwind CSS, Framer Motion, Vercel.
-*   **Strategic Focus**: Emphasizes strategic messaging, robust bid-ready proof stacks, and adherence to elite UI/UX standards.
+The company builds its own software products and selected client systems, with an emphasis on clear system states, operational usefulness, security, and evidence-backed delivery.
 
-#### [Amanuel Travel (ATA)](https://github.com/Yoniboyy055/ATAwebproject)
-**A real client implementation.** A travel platform built for Amanuel Travel Agency, demonstrating full-stack development across booking, payments, and admin tooling. Current production/commercial status is being normalized internally and is not asserted here beyond "a client project was built."
-*   **Key Technologies**: Next.js (App Router), Prisma, PostgreSQL, Stripe, NextAuth.
-*   **Scope Includes**: An admin dashboard, automated booking flows, an A/B testing framework, and payment integration.
+Website: https://yksystems.ca
 
-#### [OpsCore Platform](https://github.com/Yoniboyy055/yonipro) *(Internal System Concept)*
-**The Operations-First Showcase.** This internal system concept was designed to replace fragmented spreadsheet-based processes with a unified job control system. It has not been built or deployed for a real client.
-*   **Design Target**: a projected **40% reduction in administrative overhead** and faster, more informed stakeholder decision-making — a design goal for this concept, not a measured result.
+### YK Systems Resource Hub
+A public library of practical material around automation, AI workflows, and cleaner business systems.
 
----
+Website: https://hub.yksystems.ca
 
-### 🛠️ Technical Stack & Expertise
+### Amanuel Travel Agency
+A client project focused on the customer-facing digital experience and supporting travel-service workflows.
 
-My technical proficiency spans a modern and robust technology stack, enabling the development of high-performance and scalable solutions:
+Public site: https://amanuel-travel-chi.vercel.app
 
-*   **Frontend Development**: React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion.
-*   **Backend & Data Management**: Node.js, PostgreSQL, Supabase, Prisma, REST & GraphQL APIs.
-*   **Cloud & Infrastructure**: Vercel, AWS, Cloudflare, Docker, CI/CD pipelines.
-*   **Integrations**: Stripe, QuickBooks, CRM synchronization, and automated reporting systems.
+## How I work
 
----
+- **Systems over hype** — the system should work before the marketing says it works.
+- **Evidence over assumption** — product states, customer outcomes, and production claims should be provable.
+- **Real operations first** — software should reduce friction for the people actually doing the work.
+- **Security and reliability by default** — auth, data boundaries, deployment safety, and failure states are part of the product.
+- **Clarity over complexity** — fewer steps, cleaner decisions, and understandable workflows.
 
-### ⚖️ The Judgment Constitution: Guiding Principles for UI/UX
+## Areas I work in
 
-All UI/UX, product design, and interface decisions are rigorously governed by the **UI/UX Elite Practices Contract (2027)**. This framework prioritizes sound, shippable decisions over transient trends or purely aesthetic considerations:
+- Product and operational software
+- Business automation
+- AI-enabled workflows and agent systems
+- Field and construction technology
+- Web applications and digital platforms
+- Product strategy and systems architecture
 
-1.  **Preserve Trust over Action**: It is unequivocally better to forgo a click than to compromise credibility or user trust.
-2.  **Preserve Brand over Conversion**: The focus is on attracting high-quality leads and maintaining brand integrity, rather than merely optimizing for high-volume, potentially low-value conversions.
-3.  **Preserve Feasibility over Ambition**: Prioritizing shippable reality and practical execution over ambitious but unfeasible concepts.
-4.  **Clarity over Novelty**: UI/UX is treated as a critical decision system, designed for clarity and function, not as mere decoration or visual novelty.
+## Public links
 
----
-
-### 📬 Connect & Collaborate
-
-I am always open to discussing new projects and strategic partnerships. Feel free to connect through the following channels:
-
-*   **Web Portfolio**: [yksystems.ca](https://yksystems.ca)
-*   **LinkedIn**: _pending — canonical LinkedIn URL not yet recorded; see `YK-OPS-GRW-001` in Operations HQ_
-*   **Email**: _pending — canonical public contact address not yet recorded; see `YK-OPS-GRW-001` in Operations HQ_
+- YK Systems: https://yksystems.ca
+- GrandProof: https://grandproof.ca
+- Resource Hub: https://hub.yksystems.ca
 
 ---
 
-*"Systems over hype. Clarity creates confidence."*
+**Yonatan Kahsay**  
+Founder — **YK Systems**
