@@ -1,4 +1,4 @@
-# YK+ Systems | Systems Builder & Product Strategist
+# YK Systems | Systems Builder & Product Strategist
 
 > **Designing and building digital systems for real-world operators.**
 
@@ -10,11 +10,11 @@ As a systems builder and product strategist, my focus is on outcome-driven desig
 
 My approach is built upon foundational principles that deliver tangible business outcomes:
 
-| Pillar | Focus | Outcome |
+| Pillar | Focus | Intent |
 | :--- | :--- | :--- |
-| **Authority & Credibility** | Establishing a high-trust digital presence essential for institutional bidding and partnerships. | Enables winning larger bids, faster pre-qualification, and enhanced market positioning. |
-| **Systems & Operations** | Implementing automation and streamlined workflows to eliminate operational chaos and manual errors. | Achieves significant reductions in administrative overhead and provides real-time operational control. |
-| **Real-World Execution** | Developing solutions specifically designed for field operators, ensuring practical utility beyond the office environment. | Drives high user adoption rates and ensures reliable synchronization between field operations and central management. |
+| **Authority & Credibility** | Establishing a high-trust digital presence essential for institutional bidding and partnerships. | Designed to support larger bids, faster pre-qualification, and stronger market positioning. |
+| **Systems & Operations** | Implementing automation and streamlined workflows to eliminate operational chaos and manual errors. | Designed to reduce administrative overhead and provide real-time operational visibility. |
+| **Real-World Execution** | Developing solutions specifically designed for field operators, ensuring practical utility beyond the office environment. | Designed for reliable synchronization between field operations and central management. |
 
 ---
 
@@ -22,19 +22,19 @@ My approach is built upon foundational principles that deliver tangible business
 
 My portfolio showcases projects that embody my commitment to strategic design and technical excellence:
 
-#### [YK+ Systems Portfolio](https://github.com/Yoniboyy055/yonipro)
+#### [YK Systems Portfolio](https://github.com/Yoniboyy055/yonipro)
 **The Authority-First Showcase.** This premium, high-trust portfolio is engineered for real-world operators. It strategically communicates capabilities and builds credibility.
 *   **Key Technologies**: React, TypeScript, Tailwind CSS, Framer Motion, Vercel.
 *   **Strategic Focus**: Emphasizes strategic messaging, robust bid-ready proof stacks, and adherence to elite UI/UX standards.
 
 #### [Amanuel Travel (ATA)](https://github.com/Yoniboyy055/ATAwebproject)
-**The Production-Ready Enterprise Showcase.** A comprehensive travel platform demonstrating full-stack development capabilities and enterprise-grade features.
+**A real client implementation.** A travel platform built for Amanuel Travel Agency, demonstrating full-stack development across booking, payments, and admin tooling. Current production/commercial status is being normalized internally and is not asserted here beyond "a client project was built."
 *   **Key Technologies**: Next.js (App Router), Prisma, PostgreSQL, Stripe, NextAuth.
-*   **Distinguishing Features**: Includes an advanced admin dashboard, automated booking flows, an A/B testing framework, and secure payment integration.
+*   **Scope Includes**: An admin dashboard, automated booking flows, an A/B testing framework, and payment integration.
 
 #### [OpsCore Platform](https://github.com/Yoniboyy055/yonipro) *(Internal System Concept)*
-**The Operations-First Showcase.** This internal system concept was designed to replace fragmented spreadsheet-based processes with a unified job control system.
-*   **Achieved Outcome**: Projected a **40% reduction in administrative overhead** and facilitated faster, more informed stakeholder decision-making.
+**The Operations-First Showcase.** This internal system concept was designed to replace fragmented spreadsheet-based processes with a unified job control system. It has not been built or deployed for a real client.
+*   **Design Target**: a projected **40% reduction in administrative overhead** and faster, more informed stakeholder decision-making — a design goal for this concept, not a measured result.
 
 ---
 
